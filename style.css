@@ -1,0 +1,78 @@
+.main-div{
+	Background:black;
+	Height:100px;	
+
+
+}
+body{
+    background-color: pink;
+}
+
+#images {
+	height:90px;
+	margin:5px;
+	float: left;
+
+
+}
+
+.li1 {
+	list-style-type: none;
+	float: left;	
+	margin-left: 30px;
+	margin-top: 40px;
+
+
+}
+
+
+.a1 {
+	text-decoration: none;
+	color:white;
+	font-family: arial;
+	font-size: 30px;
+	font-weight: bold;
+
+
+}
+.h{
+    text-align: center;
+    color:black;
+}
+.div-1{
+    background-color: black;
+    width: 730px;
+    height:700px;
+}
+.div-2{
+    display: flex;
+    justify-content: space-between;
+}
+.img-2{
+    margin-top: 3%;
+    margin-left: 25%;
+}
+.img-3{
+    margin-top: 3%;
+    margin-left: 36%;
+}
+.img-4{
+    margin-top: 3%;
+    margin-left: 32%;
+}
+.text{
+    color: white;
+    font-size: 1.7rem;
+    margin-left: 2%;
+}
+.text1{
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+}
+.footer{
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    background-color: black;
+}
